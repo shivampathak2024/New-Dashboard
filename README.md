@@ -100,8 +100,3 @@ Show what the dashboard looks like. Example:<img width="1327" height="746" alt="
 
 
 
-# Author
-
-**Shivam Pathak**
-
-Data Analytics Enthusiast | Power BI | SQL | Excel
